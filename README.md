@@ -16,7 +16,7 @@ This project deals with teaching the model how to mimick the driver's performanc
 * **Output:** Completes one lap on Carla Simulator
 
 # [Project 2: Language Translator from English to Arabic](https://github.com/JINO-ROHIT/Language_Translation)
-![Language Translator from English to Arabic](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
+![Language Translator from English to Arabic](syed-hussaini-r8H8K3w9AzA-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@syhussaini?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Syed Hussaini</a> on <a href="https://unsplash.com/s/photos/arabic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
