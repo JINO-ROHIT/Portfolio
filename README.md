@@ -5,7 +5,7 @@
 * Bachelor of Technology (Computer Science and Engineering), *KCT*, 2019-2023
 
 # [Project 1: Behavioral Cloning for Self-Driving Cars](https://github.com/JINO-ROHIT/Behavioral-Cloning-for-Driverless-Cars)
-![Behavioral Cloning for Self-Driving Cars](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
+![Behavioral Cloning for Self-Driving Cars](dhiva-krishna-YApS6TjKJ9c-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@dhivakrishna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dhiva Krishna</a> on <a href="https://unsplash.com/s/photos/cars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
