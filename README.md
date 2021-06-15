@@ -12,7 +12,7 @@ Photo by <a href="https://unsplash.com/@dhivakrishna?utm_source=unsplash&utm_med
 
 This project deals with teaching the model how to mimick the driver's performance
 * **Libraries used:** Numpy, Sklearn, TensorFlow, Keras
-* **Input:** Images of the dimension 160*320*3
+* **Input:** Images of the dimension 160 x 320 x 3
 * **Output:** Complete one lap on Carla Simulator
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
