@@ -26,7 +26,7 @@ This project makes use of ***natural language processing*** to translate English
 * **Output:** Arabic Phrases
 
 # [Project 3: Gesture Detection of Palm](https://github.com/JINO-ROHIT/Gesture-detection-of-palm-head)
-![Gesture Detection of Palm](syed-hussaini-r8H8K3w9AzA-unsplash.jpg)
+![Gesture Detection of Palm](kira-auf-der-heide-_Zd6COnH5E8-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@kadh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kira auf der Heide</a> on <a href="https://unsplash.com/s/photos/gesture-detection?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
@@ -36,7 +36,7 @@ This project detects movements of your palm or your head using ***computer visio
 
 
 # [Project 4: Face Comparison Using Mtcnn](https://github.com/JINO-ROHIT/Face-Comparison-using-MTCNN)
-![Face Comparison Using Mtcnn](syed-hussaini-r8H8K3w9AzA-unsplash.jpg)
+![Face Comparison Using Mtcnn](omar-lopez-fFDlC1OleWY-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@omarlopez1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Omar Lopez</a> on <a href="https://unsplash.com/s/photos/two-faces?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
@@ -47,7 +47,7 @@ This project compares two images and evaluates them using hamming score dependin
 
 
 # [Project 5: Movie Recommendation System](https://github.com/JINO-ROHIT/SIMPLE-MOVIE-RECOMMENDATION-SYSTEM)
-![Movie Recommendation System](syed-hussaini-r8H8K3w9AzA-unsplash.jpg)
+![Movie Recommendation System](souvik-banerjee-I4MTFEPvpdk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@rswebsols?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Souvik Banerjee</a> on <a href="https://unsplash.com/s/photos/movies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
@@ -59,7 +59,7 @@ This project recommends top 10 movies based on your likings by evaluating the si
 
 
 # [Project 6: FIFA Players Analysis](https://github.com/JINO-ROHIT/FIFA-ANALYSIS-)
-![FIFA Players Analysis]()
+![FIFA Players Analysis](alex-_AOL4_fDQ3M-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@alexlanting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex</a> on <a href="https://unsplash.com/s/photos/football?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
@@ -68,7 +68,7 @@ This is a detailed analysis of some of the popular football players who play at 
 
 
 # [Project 7: House Price Prediction](https://github.com/JINO-ROHIT/HOUSE-PREDICTION)
-![House Price Prediction](syed-hussaini-r8H8K3w9AzA-unsplash.jpg)
+![House Price Prediction](stephan-bechert-yFV39g6AZ5o-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@steve4c?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Stephan Bechert</a> on <a href="https://unsplash.com/s/photos/house?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
