@@ -13,14 +13,14 @@ Photo by <a href="https://unsplash.com/@dhivakrishna?utm_source=unsplash&utm_med
 This project deals with teaching the model how to mimick the driver's performance
 * **Libraries used:** Numpy, Sklearn, TensorFlow, Keras
 * **Input:** Images of the dimension 160 x 320 x 3
-* **Output:** Complete one lap on Carla Simulator
+* **Output:** Completes one lap on Carla Simulator
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
+# [Project 2: Language Translator from English to Arabic](https://github.com/JINO-ROHIT/Language_Translation)
+![Language Translator from English to Arabic](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@austindistel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Austin Distel</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Photo by <a href="https://unsplash.com/@syhussaini?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Syed Hussaini</a> on <a href="https://unsplash.com/s/photos/arabic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-* **Input:** Cryptocurrency historical price
-* **Output:** Trading signals triggers buying and selling
+This project makes use of ***natural language processing*** to translate English phrases to Arabic phrases.
+* **Libraries used:** Numpy, Pandas, Keras
+* **Input:** English Phrases
+* **Output:** Arabic Phrases
