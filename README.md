@@ -10,10 +10,10 @@
 Photo by <a href="https://unsplash.com/@dhivakrishna?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Dhiva Krishna</a> on <a href="https://unsplash.com/s/photos/cars?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+This project deals with teaching the model how to mimick the driver's performance
+* **Libraries used:** Numpy, Sklearn, TensorFlow, Keras
+* **Input:** Images of the dimension 160*320*3
+* **Output:** Complete one lap on Carla Simulator
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![crypto trading bot](austin-distel-EMPZ7yRZoGw-unsplash.jpg)
